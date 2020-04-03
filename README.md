@@ -1,4 +1,6 @@
-# Code Nation 2019 Advanced Hackathon: Hack the Impact 
+# Code Nation Hackathon: README Template
+
+Edit the README to answer the following questions before you submit your project.
 
 ### Your Project Members
 
@@ -13,5 +15,7 @@
 ### What challenges did you run into?
 
 ### What accomplishments are you most proud of?
+
+### If you had more time, what features would you add to this project?
 
 ### What did your team learn?
