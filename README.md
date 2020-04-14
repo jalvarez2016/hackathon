@@ -19,3 +19,13 @@ Edit the README to answer the following questions before you submit your project
 ### If you had more time, what features would you add to this project?
 
 ### What did your team learn?
+
+Stack:
+Javascript
+HTML
+CSS
+Bootstrap
+
+    Considering:
+    Emotion.js(ask aldair about this)
+    sass
